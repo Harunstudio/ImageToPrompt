@@ -1,0 +1,7 @@
+{
+  "name": "Vision2Prompt Pro v1.5.5",
+  "description": "Neural Architecture Reconstruction Engine v1.5.5 by Harun Studio. Professional image-to-prompt synthesis with identity preservation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
